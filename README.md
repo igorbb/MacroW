@@ -1,6 +1,6 @@
 ## MacroW
 
-MacroW is a simple unix (X11)Keyboard Macro Recorder / player for Keyboard with dedicated macro keys.
+MacroW is a simple unix (X11) Keyboard Macro Recorder / player for Keyboard with dedicated macro keys.
 
 ### Features:
   - Records on the fly.
