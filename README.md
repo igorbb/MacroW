@@ -13,6 +13,7 @@ MacroW is a simple unix (X11) Keyboard Macro Recorder / player for Keyboard with
 
 ### Tested with
  - UBUNTU 14.04 + https://github.com/pez2001/razer_chroma_drivers ( Enables macro keys + colors profile)
+ - Ubuntu MATE 15.10 on the Razer BlackWidow Chroma +   https://github.com/pez2001/razer_chroma_drivers 
 
 If you have a different keyboard and want to help. Enter in contact  https://github.com/igorbb/MacroW/labels/help%20wanted
 
